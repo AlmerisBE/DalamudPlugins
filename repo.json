@@ -38,8 +38,6 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
-    "Punchline": "Your friends are worth it.",
-    "IconUrl": "https://raw.githubusercontent.com/AlmerisBE/Befriender/main/images/icon.png",
-    "ImageUrls": []
+    "Punchline": "Your friends are worth it."
   }
 ]
