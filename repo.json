@@ -19,15 +19,15 @@
     "Author": "Almeris",
     "Name": "Befriender",
     "InternalName": "Befriender",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "An improved, responsive, and feature-rich friend list for Final Fantasy XIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AlmerisBE/Befriender",
     "Tags": [
-      "friendlist",
+      "friends",
       "social",
-      "utility",
-      "friends"
+      "ui",
+      "utility"
     ],
     "DalamudApiLevel": 15,
     "DownloadCount": 0,
