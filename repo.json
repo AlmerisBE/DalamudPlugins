@@ -31,6 +31,7 @@
       "utility"
     ],
     "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "DownloadCount": 0,
     "LastUpdate": 1735689600,
     "DownloadLinkInstall": "https://github.com/AlmerisBE/Befriender/releases/download/v1.1.1.0/latest.zip",
