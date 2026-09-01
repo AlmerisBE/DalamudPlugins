@@ -20,7 +20,7 @@
     "Name": "Befriender",
     "InternalName": "Befriender",
     "AssemblyVersion": "1.1.1.0",
-    "TestingAssemblyVersion": "1.2.0-beta.1",
+    "TestingAssemblyVersion": "1.2.0.0",
     "Description": "An improved, responsive, and feature-rich friend list for Final Fantasy XIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AlmerisBE/Befriender",
