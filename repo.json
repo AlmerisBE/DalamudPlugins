@@ -41,5 +41,34 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Your friends are worth it."
+  },
+  {
+    "Author": "Almeris",
+    "Name": "RolePlayer",
+    "InternalName": "RolePlayer",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Description": "An advanced emote manager and RP hotbar suite for Final Fantasy XIV. Features dynamic emote tracking based on active Penumbra mods, unlock source lookups, custom tagging/grouping, and responsive floating hotbars.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/AlmerisBE/RolePlayer",
+    "Tags": [
+      "emotes",
+      "roleplay",
+      "hotbars",
+      "penumbra",
+      "ui",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 1735689600,
+    "DownloadLinkInstall": "https://github.com/AlmerisBE/RolePlayer/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AlmerisBE/RolePlayer/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AlmerisBE/RolePlayer/releases/download/v0.1.0.0/latest.zip",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Empower your RP with dynamic emotes and infinite custom hotbars."
   }
 ]
