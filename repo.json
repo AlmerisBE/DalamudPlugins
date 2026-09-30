@@ -70,5 +70,35 @@
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "Empower your RP with dynamic emotes and infinite custom hotbars."
+  },
+  {
+    "Author": "Almeris",
+    "Name": "Marketeer",
+    "InternalName": "Marketeer",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "An all-in-one market board, inventory, and retainer management plugin. Features market watch, automated competitor undercutting, comprehensive sales history, cross-character inventory management, and a crafting profit evaluator.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/AlmerisBE/Marketeer",
+    "Tags": [
+      "market",
+      "retainer",
+      "sales",
+      "inventory",
+      "crafting",
+      "automation",
+      "trading"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 1727735270,
+    "DownloadLinkInstall": "https://github.com/AlmerisBE/Marketeer/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AlmerisBE/Marketeer/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AlmerisBE/Marketeer/releases/download/v1.0.0.0/latest.zip",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Help yourself and your retainers !"
   }
 ]
