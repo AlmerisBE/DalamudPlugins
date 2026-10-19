@@ -76,7 +76,7 @@
     "Name": "Marketeer",
     "InternalName": "Marketeer",
     "AssemblyVersion": "1.0.2.1",
-    "TestingAssemblyVersion": "1.0.2.3-test",
+    "TestingAssemblyVersion": "1.0.2.3",
     "Description": "An all-in-one market board, inventory, and retainer management plugin. Features market watch, automated competitor undercutting, comprehensive sales history, cross-character inventory management, and a crafting profit evaluator.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AlmerisBE/Marketeer",
